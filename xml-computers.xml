@@ -11,3 +11,13 @@
 		<display>16-inch Retina display with True Tone</display>
 		<price>$1,999 to $6,099</price>
 	</computer1>
+    <computer2>
+		<name>Dell XPS 13</name>
+		<manufacturer>Dell Technologies Inc.</manufacturer>
+		<processor>11th Gen Intel Core i3, i5, or i7</processor>
+		<graphics>Intel Iris Xe Graphics</graphics>
+		<memory>Up to 16GB LPDDR4x RAM</memory>
+		<storage>Up to 2TB M.2 PCIe NVMe SSD</storage>
+		<display>13.4-inch FHD+ or UHD+ touch display</display>
+		<price>$999 to $2,499</price>
+	</computer2>

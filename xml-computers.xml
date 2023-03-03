@@ -1,1 +1,13 @@
 <?xml version = "1.0" encoding = "UTF-8" ?>
+<computers>
+
+	<computer1>
+		<name>MacBook Pro</name>
+		<manufacturer>Apple Inc.</manufacturer>
+		<processor>Apple M1 Pro/M1 Max</processor>
+		<graphics>Up to AMD Radeon Pro W6900X with 32GB of GDDR6 memory</graphics>
+		<memory>Up to 64GB unified memory</memory>
+		<storage>Up to 8TB SSD</storage>
+		<display>16-inch Retina display with True Tone</display>
+		<price>$1,999 to $6,099</price>
+	</computer1>

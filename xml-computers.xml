@@ -16,8 +16,8 @@
 		<manufacturer>Dell Technologies Inc.</manufacturer>
 			<processor>
 				<variant1>11th Gen Intel Core i3</variant>
-				<variant1>11th Gen Intel Core i5</variant>
-				<variant2>11th Gen Intel Core i7</variant>
+				<variant2>11th Gen Intel Core i5</variant>
+				<variant3>11th Gen Intel Core i7</variant>
 			</processor>
 		<graphics>Intel Iris Xe Graphics</graphics>
 		<memory>Up to 16GB LPDDR4x RAM</memory>
